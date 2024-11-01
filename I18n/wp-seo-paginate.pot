@@ -1,0 +1,178 @@
+# Copyright (C) 2010 WP-SEO-Paginate
+# This file is distributed under the same license as the WP-SEO-Paginate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SEO-Paginate 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-seo-paginate\n"
+"POT-Creation-Date: 2011-10-26 04:10:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-seo-paginate.php:266
+msgid "Settings"
+msgstr ""
+
+#: wp-seo-paginate.php:291
+msgid "Success! Your changes were successfully saved!"
+msgstr ""
+
+#: wp-seo-paginate.php:294
+msgid "Whoops! There was a problem with the data you posted. Please try again."
+msgstr ""
+
+#: wp-seo-paginate.php:306
+msgid "Pagination Label:"
+msgstr ""
+
+#: wp-seo-paginate.php:308
+msgid "The text/HTML to display before the list of pages."
+msgstr ""
+
+#: wp-seo-paginate.php:311
+msgid "Previous Page:"
+msgstr ""
+
+#: wp-seo-paginate.php:313
+msgid "The text/HTML to display for the previous page link."
+msgstr ""
+
+#: wp-seo-paginate.php:316
+msgid "Next Page:"
+msgstr ""
+
+#: wp-seo-paginate.php:318
+msgid "The text/HTML to display for the next page link."
+msgstr ""
+
+#: wp-seo-paginate.php:322
+msgid "Advanced Settings"
+msgstr ""
+
+#: wp-seo-paginate.php:325
+msgid "Before Markup:"
+msgstr ""
+
+#: wp-seo-paginate.php:327
+msgid "The HTML markup to display before the pagination code."
+msgstr ""
+
+#: wp-seo-paginate.php:330
+msgid "After Markup:"
+msgstr ""
+
+#: wp-seo-paginate.php:332
+msgid "The HTML markup to display after the pagination code."
+msgstr ""
+
+#: wp-seo-paginate.php:335
+msgid "Markup Display:"
+msgstr ""
+
+#: wp-seo-paginate.php:337
+msgid "Show Before Markup and After Markup, even if the page list is empty?"
+msgstr ""
+
+#: wp-seo-paginate.php:340
+msgid "WP-SEO-Paginate CSS File:"
+msgstr ""
+
+#: wp-seo-paginate.php:342
+msgid ""
+"Include the default stylesheet wp-seo-paginate.css? WP-SEO-Paginate will "
+"first look for <code>wp-seo-paginate.css</code> in your theme directory "
+"(<code>themes/%s</code>)."
+msgstr ""
+
+#: wp-seo-paginate.php:345
+msgid "Page Range:"
+msgstr ""
+
+#: wp-seo-paginate.php:352
+msgid ""
+"The number of page links to show before and after the current page. "
+"Recommended value: 3"
+msgstr ""
+
+#: wp-seo-paginate.php:355
+msgid "Page Anchors:"
+msgstr ""
+
+#: wp-seo-paginate.php:362
+msgid ""
+"The number of links to always show at beginning and end of pagination. "
+"Recommended value: 1"
+msgstr ""
+
+#: wp-seo-paginate.php:365
+msgid "Page Gap:"
+msgstr ""
+
+#: wp-seo-paginate.php:372
+msgid ""
+"The minimum number of pages in a gap before an ellipsis (...) is added. "
+"Recommended value: 3"
+msgstr ""
+
+#: wp-seo-paginate.php:379
+msgid "Need Support?"
+msgstr ""
+
+#: wp-seo-paginate.php:380
+msgid ""
+"For questions, issues or feature requests, please post them in the %s and "
+"make sure to tag the post with wp-seo-paginate."
+msgstr ""
+
+#: wp-seo-paginate.php:381
+msgid "Like To Contribute?"
+msgstr ""
+
+#: wp-seo-paginate.php:382
+msgid ""
+"If you would like to contribute, the following is a list of ways you can "
+"help:"
+msgstr ""
+
+#: wp-seo-paginate.php:384
+msgid "Translate WP-SEO-Paginate into your language"
+msgstr ""
+
+#: wp-seo-paginate.php:385
+msgid "Blog about or link to WP-SEO-Paginate so others can find out about it"
+msgstr ""
+
+#: wp-seo-paginate.php:386
+msgid "Report issues, provide feedback, request features, etc."
+msgstr ""
+
+#: wp-seo-paginate.php:387
+msgid "Rate WP-SEO-Paginate on the WordPress Plugins Page"
+msgstr ""
+
+#: wp-seo-paginate.php:390
+msgid "Other Links"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP-SEO-Paginate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://onlinewebapplication.com/2011/10/wp-seo-paginate.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides users with better and simple navigation interface."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pankaj Jha"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://onlinewebapplication.com"
+msgstr ""
